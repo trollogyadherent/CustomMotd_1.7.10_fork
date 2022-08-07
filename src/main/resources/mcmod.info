@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cmotd",
+  "name": "p455w0rd MOTD Customizer - No Client",
+  "description": "Server Mod that customizes MOTD, player list tooltip, and server icon. Doesn't require p455w0rd lib, server only.",
+  "version": "1.0.11",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheRealp455w0rd"],
+  "credits": "TheRealp455w0rd for the base mod, trollogyadherent for this fork",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
