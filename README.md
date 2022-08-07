@@ -1,7 +1,7 @@
 ## Custom MOTD NoClient, formerly p455w0rd's MOTD Customizer
 
 Patreon: [p455w0rd](https://www.patreon.com/p455w0rd)
- 
+
 [Original curse page](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-motd-customizer)
 
 A Forge Server Side-Only mod to customize your server MOTD!
